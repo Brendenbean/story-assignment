@@ -1,0 +1,6 @@
+img{width:300px;}
+.test{
+    display:flex;
+   align-items: center;
+   justify-content: center;
+}
